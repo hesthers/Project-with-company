@@ -1,4 +1,4 @@
-- Helpful websites that are readable
+- Helpful websites that are readable:
 >- <a href ="https://hongl.tistory.com/244?category=927704">Blog 1</a>
 >- <a href ="https://lsjsj92.tistory.com/597?category=792966">Blog 2</a>
 >- <a href ="https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html">Google Blog - wide and deep learning</a>
