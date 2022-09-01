@@ -14,3 +14,5 @@
 - LDA
 - CNN
 
+# Team notion page
+- https://www.notion.so/_6-6bce3752107e4cc78fa5c2dfcfdad17a
